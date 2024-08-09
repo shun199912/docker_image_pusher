@@ -1,2 +1,2 @@
-wurstmeister/zookeeper:3.4.11
-wurstmeister/kafka:2.8.2
+mysql/mysql-server:8.0.28
+redis:6.2.5
