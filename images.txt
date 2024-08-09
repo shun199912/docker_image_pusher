@@ -1,10 +1,2 @@
-jaegertracing/all-in-one:1.42.0
-prom/prometheus:v2.31.0
-grafana/grafana:8.0.6
-docker.elastic.co/elasticsearch/elasticsearch:7.13.4
-docker.elastic.co/kibana/kibana:7.13.4
-kevinwan/go-stash:1.0
-elastic/filebeat:7.13.4
-wurstmeister/zookeeper:3.5.9
-wurstmeister/kafka:2.8.0
-hibiken/asynqmon:latest
+wurstmeister/zookeeper:3.4.14
+wurstmeister/kafka:2.5.0
