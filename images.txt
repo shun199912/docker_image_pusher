@@ -1,2 +1,2 @@
-zookeeper
-kafka
+confluentinc/cp-kafka
+confluentinc/cp-zookeeper
