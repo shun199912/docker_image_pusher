@@ -1,2 +1,2 @@
-mysql/mysql-server:8.0.28
-redis:6.2.5
+wurstmeister/kafka:2.12-2.4.1
+wurstmeister/zookeeper:3.4.6
